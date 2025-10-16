@@ -52,6 +52,7 @@ app.get("/", (req, res) => {
     health: "/health",
   });
 });
+ 
 
 // Routes
 app.use("/api", mainRoutes);
