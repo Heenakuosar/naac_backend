@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const httpStatusCode = require("../constant/httpStatus.constant");
+const httpStatusCode = require("../constant/httpstatus.constant");
 require("dotenv").config();
 
 
